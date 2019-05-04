@@ -1,1 +1,1 @@
-# The-Comparison-of-Confidence-Intervals-Under-Six-Major-Sampling-Methods-
+# The Comparison of Confidence Intervals Under Six Major Sampling Methods 
